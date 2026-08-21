@@ -1,7 +1,7 @@
-# Dynamical Leverage in Temporal Networks — reproducibility
+# Dynamical Leverage in Temporal Networks: Reproducibility 
 
 Code and artifacts for the paper "Dynamical Leverage in Temporal Networks: \\
-When Does Node Importance Depend on the Trajectory?" (under review).
+When Does Node Importance Depend on the Trajectory?" (Paper under review).
 
 ## Layout
 
