@@ -1,7 +1,5 @@
 # Pre-specification amendment v3.1 — convention audit resolution
-## Appended to external_validation_prespec.md (v3 remains frozen; this
-## amendment documents implementation corrections and the E/R convention
-## resolution required by v3's own OPEN ITEM. Aug 17, 2026.)
+## Appended to external_validation_prespec.md (v3 remains frozen; this amendment documents implementation corrections and the E/R convention resolution)
 
 ## 1. E_j convention, as read from the reference implementation
 Audit of the measure module (`code/dynamical_leverage.py` in this
