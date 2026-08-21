@@ -1,0 +1,121 @@
+study,entity,measure,value
+trade,United States of America,communicability_bc,9.6643135e+14
+trade,United States of America,communicability_rc,1.7714843e+16
+trade,United States of America,temporal_closeness,0.87412008
+trade,United Kingdom,communicability_bc,9.6655227e+14
+trade,United Kingdom,communicability_rc,1.0488909e+16
+trade,United Kingdom,temporal_closeness,0.88004894
+trade,Germany,communicability_bc,9.6657513e+14
+trade,Germany,communicability_rc,1.4347492e+16
+trade,Germany,temporal_closeness,0.86819123
+trade,France,communicability_bc,9.6655799e+14
+trade,France,communicability_rc,1.0080931e+16
+trade,France,temporal_closeness,0.86819123
+trade,Japan,communicability_bc,9.6637729e+14
+trade,Japan,communicability_rc,1.0014365e+16
+trade,Japan,temporal_closeness,0.7436853
+trade,Netherlands,communicability_bc,9.6657645e+14
+trade,Netherlands,communicability_rc,8.3288911e+15
+trade,Netherlands,temporal_closeness,0.87609637
+trade,Italy,communicability_bc,9.6655299e+14
+trade,Italy,communicability_rc,8.8739502e+15
+trade,Italy,temporal_closeness,0.86226238
+trade,Russian Federation,communicability_bc,9.665403e+14
+trade,Russian Federation,communicability_rc,6.1101079e+15
+trade,Russian Federation,temporal_closeness,0.58396557
+trade,Spain,communicability_bc,9.665766e+14
+trade,Spain,communicability_rc,5.61548e+15
+trade,Spain,temporal_closeness,0.82866554
+trade,China mainland,communicability_bc,9.6646382e+14
+trade,China mainland,communicability_rc,8.4695208e+15
+trade,China mainland,temporal_closeness,0.82668925
+trade,India,communicability_bc,9.6653111e+14
+trade,India,communicability_rc,2.2099749e+15
+trade,India,temporal_closeness,0.78357032
+trade,Canada,communicability_bc,9.6646618e+14
+trade,Canada,communicability_rc,4.827403e+15
+trade,Canada,temporal_closeness,0.8207604
+trade,Saudi Arabia,communicability_bc,9.6655832e+14
+trade,Saudi Arabia,communicability_rc,6.1367611e+15
+trade,Saudi Arabia,temporal_closeness,0.58330681
+trade,Turkey,communicability_bc,9.665726e+14
+trade,Turkey,communicability_rc,2.1580144e+15
+trade,Turkey,temporal_closeness,0.76578376
+trade,Portugal,communicability_bc,9.6657297e+14
+trade,Portugal,communicability_rc,1.4557534e+15
+trade,Portugal,temporal_closeness,0.76740072
+trade,Indonesia,communicability_bc,9.6651249e+14
+trade,Indonesia,communicability_rc,1.892867e+15
+trade,Indonesia,temporal_closeness,0.72032921
+trade,Belgium,communicability_bc,99870585
+trade,Belgium,communicability_rc,5.3841191e+15
+trade,Belgium,temporal_closeness,0.10912656
+trade,Switzerland,communicability_bc,9.6656306e+14
+trade,Switzerland,communicability_rc,1.9738129e+15
+trade,Switzerland,temporal_closeness,0.81087898
+trade,Brazil,communicability_bc,9.6654551e+14
+trade,Brazil,communicability_rc,5.9318454e+14
+trade,Brazil,temporal_closeness,0.769377
+trade,Thailand,communicability_bc,9.6648289e+14
+trade,Thailand,communicability_rc,1.3219868e+15
+trade,Thailand,temporal_closeness,0.80297384
+polecat,actor10,communicability_bc,6.8352118e+14
+polecat,actor10,communicability_rc,6.3556342e+14
+polecat,actor10,temporal_closeness,0.4437712
+polecat,actor59,communicability_bc,5.1770458e+14
+polecat,actor59,communicability_rc,6.0489078e+14
+polecat,actor59,temporal_closeness,0.37835943
+polecat,actor49,communicability_bc,2.1579691e+14
+polecat,actor49,communicability_rc,1.4281228e+14
+polecat,actor49,temporal_closeness,0.32787274
+polecat,actor47,communicability_bc,3.1873838e+14
+polecat,actor47,communicability_rc,2.5331644e+14
+polecat,actor47,temporal_closeness,0.35148186
+polecat,actor305,communicability_bc,5.6359947e+14
+polecat,actor305,communicability_rc,3.6944406e+14
+polecat,actor305,temporal_closeness,0.38569791
+polecat,actor1622,communicability_bc,5.2027987e+11
+polecat,actor1622,communicability_rc,2.0644553e+14
+polecat,actor1622,temporal_closeness,0.20992971
+polecat,actor129,communicability_bc,1.8506779e+14
+polecat,actor129,communicability_rc,1.3777329e+14
+polecat,actor129,temporal_closeness,0.34867625
+polecat,actor13,communicability_bc,3.8994515e+14
+polecat,actor13,communicability_rc,1.7986396e+14
+polecat,actor13,temporal_closeness,0.39099899
+polecat,actor455,communicability_bc,4.9941597e+14
+polecat,actor455,communicability_rc,2.9527565e+14
+polecat,actor455,temporal_closeness,0.38223384
+polecat,actor123,communicability_bc,1.4776724e+14
+polecat,actor123,communicability_rc,8.0756239e+13
+polecat,actor123,temporal_closeness,0.31424628
+polecat,actor604,communicability_bc,2.8303627e+14
+polecat,actor604,communicability_rc,2.1128596e+13
+polecat,actor604,temporal_closeness,0.34776252
+polecat,actor68,communicability_bc,3.005599e+14
+polecat,actor68,communicability_rc,2.4479971e+14
+polecat,actor68,temporal_closeness,0.33217658
+polecat,actor345,communicability_bc,1.2208263e+14
+polecat,actor345,communicability_rc,4.2488747e+14
+polecat,actor345,temporal_closeness,0.34019739
+polecat,actor2243,communicability_bc,2.3194648e+13
+polecat,actor2243,communicability_rc,1.2124798e+14
+polecat,actor2243,temporal_closeness,0.25294431
+polecat,actor370,communicability_bc,5.2739816e+13
+polecat,actor370,communicability_rc,8.514616e+13
+polecat,actor370,temporal_closeness,0.31941455
+polecat,actor963,communicability_bc,2.5246398e+14
+polecat,actor963,communicability_rc,2.2157858e+14
+polecat,actor963,temporal_closeness,0.3608339
+polecat,actor193,communicability_bc,3.1023578e+14
+polecat,actor193,communicability_rc,1.782339e+14
+polecat,actor193,temporal_closeness,0.37530093
+polecat,actor57424,communicability_bc,1848702.8
+polecat,actor57424,communicability_rc,4.5228831e+14
+polecat,actor57424,temporal_closeness,0.061890526
+polecat,actor734,communicability_bc,2.4054881e+14
+polecat,actor734,communicability_rc,6.2688402e+13
+polecat,actor734,temporal_closeness,0.36904079
+polecat,actor101,communicability_bc,1.5698497e+13
+polecat,actor101,communicability_rc,4.1668413e+13
+polecat,actor101,temporal_closeness,0.26385422

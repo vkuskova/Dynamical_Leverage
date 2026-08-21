@@ -1,0 +1,481 @@
+study,entity,quantity,value
+STUDY 1 (trade / 2008-09),United States of America,D_primary,0.313345
+STUDY 1 (trade / 2008-09),United States of America,D_secondary,0.032056
+STUDY 1 (trade / 2008-09),United States of America,R_traj,0.069752
+STUDY 1 (trade / 2008-09),United States of America,E_traj,0.053005
+STUDY 1 (trade / 2008-09),United States of America,R_pool,4.511558
+STUDY 1 (trade / 2008-09),United States of America,E_pool(AC),9.830746
+STUDY 1 (trade / 2008-09),United States of America,strength,18.675586
+STUDY 1 (trade / 2008-09),United States of America,volume,265.133790
+STUDY 1 (trade / 2008-09),United States of America,volatility_V,0.357864
+STUDY 1 (trade / 2008-09),United States of America,communicability_bc,966431350000000.000000
+STUDY 1 (trade / 2008-09),United States of America,communicability_rc,17714843000000000.000000
+STUDY 1 (trade / 2008-09),United States of America,temporal_closeness,0.874120
+STUDY 1 (trade / 2008-09),United Kingdom,D_primary,0.419106
+STUDY 1 (trade / 2008-09),United Kingdom,D_secondary,0.288580
+STUDY 1 (trade / 2008-09),United Kingdom,R_traj,0.042251
+STUDY 1 (trade / 2008-09),United Kingdom,E_traj,0.044596
+STUDY 1 (trade / 2008-09),United Kingdom,R_pool,3.144290
+STUDY 1 (trade / 2008-09),United Kingdom,E_pool(AC),6.818647
+STUDY 1 (trade / 2008-09),United Kingdom,strength,17.796108
+STUDY 1 (trade / 2008-09),United Kingdom,volume,251.941613
+STUDY 1 (trade / 2008-09),United Kingdom,volatility_V,0.320670
+STUDY 1 (trade / 2008-09),United Kingdom,communicability_bc,966552270000000.000000
+STUDY 1 (trade / 2008-09),United Kingdom,communicability_rc,10488909000000000.000000
+STUDY 1 (trade / 2008-09),United Kingdom,temporal_closeness,0.880049
+STUDY 1 (trade / 2008-09),Germany,D_primary,0.287605
+STUDY 1 (trade / 2008-09),Germany,D_secondary,0.044239
+STUDY 1 (trade / 2008-09),Germany,R_traj,0.043965
+STUDY 1 (trade / 2008-09),Germany,E_traj,0.040074
+STUDY 1 (trade / 2008-09),Germany,R_pool,2.656159
+STUDY 1 (trade / 2008-09),Germany,E_pool(AC),6.621605
+STUDY 1 (trade / 2008-09),Germany,strength,14.159832
+STUDY 1 (trade / 2008-09),Germany,volume,197.397476
+STUDY 1 (trade / 2008-09),Germany,volatility_V,0.384047
+STUDY 1 (trade / 2008-09),Germany,communicability_bc,966575130000000.000000
+STUDY 1 (trade / 2008-09),Germany,communicability_rc,14347492000000000.000000
+STUDY 1 (trade / 2008-09),Germany,temporal_closeness,0.868191
+STUDY 1 (trade / 2008-09),France,D_primary,0.282720
+STUDY 1 (trade / 2008-09),France,D_secondary,0.017891
+STUDY 1 (trade / 2008-09),France,R_traj,0.043745
+STUDY 1 (trade / 2008-09),France,E_traj,0.058603
+STUDY 1 (trade / 2008-09),France,R_pool,2.432558
+STUDY 1 (trade / 2008-09),France,E_pool(AC),12.703369
+STUDY 1 (trade / 2008-09),France,strength,11.782555
+STUDY 1 (trade / 2008-09),France,volume,161.738321
+STUDY 1 (trade / 2008-09),France,volatility_V,0.372230
+STUDY 1 (trade / 2008-09),France,communicability_bc,966557990000000.000000
+STUDY 1 (trade / 2008-09),France,communicability_rc,10080931000000000.000000
+STUDY 1 (trade / 2008-09),France,temporal_closeness,0.868191
+STUDY 1 (trade / 2008-09),Japan,D_primary,0.432520
+STUDY 1 (trade / 2008-09),Japan,D_secondary,0.058176
+STUDY 1 (trade / 2008-09),Japan,R_traj,0.042644
+STUDY 1 (trade / 2008-09),Japan,E_traj,0.060120
+STUDY 1 (trade / 2008-09),Japan,R_pool,2.912930
+STUDY 1 (trade / 2008-09),Japan,E_pool(AC),12.656886
+STUDY 1 (trade / 2008-09),Japan,strength,10.795365
+STUDY 1 (trade / 2008-09),Japan,volume,146.930475
+STUDY 1 (trade / 2008-09),Japan,volatility_V,0.471637
+STUDY 1 (trade / 2008-09),Japan,communicability_bc,966377290000000.000000
+STUDY 1 (trade / 2008-09),Japan,communicability_rc,10014365000000000.000000
+STUDY 1 (trade / 2008-09),Japan,temporal_closeness,0.743685
+STUDY 1 (trade / 2008-09),Netherlands,D_primary,0.422392
+STUDY 1 (trade / 2008-09),Netherlands,D_secondary,0.026979
+STUDY 1 (trade / 2008-09),Netherlands,R_traj,0.066633
+STUDY 1 (trade / 2008-09),Netherlands,E_traj,0.043504
+STUDY 1 (trade / 2008-09),Netherlands,R_pool,4.750505
+STUDY 1 (trade / 2008-09),Netherlands,E_pool(AC),6.215604
+STUDY 1 (trade / 2008-09),Netherlands,strength,10.542095
+STUDY 1 (trade / 2008-09),Netherlands,volume,143.131421
+STUDY 1 (trade / 2008-09),Netherlands,volatility_V,0.452926
+STUDY 1 (trade / 2008-09),Netherlands,communicability_bc,966576450000000.000000
+STUDY 1 (trade / 2008-09),Netherlands,communicability_rc,8328891100000000.000000
+STUDY 1 (trade / 2008-09),Netherlands,temporal_closeness,0.876096
+STUDY 1 (trade / 2008-09),Italy,D_primary,0.541751
+STUDY 1 (trade / 2008-09),Italy,D_secondary,0.236405
+STUDY 1 (trade / 2008-09),Italy,R_traj,0.049097
+STUDY 1 (trade / 2008-09),Italy,E_traj,0.052587
+STUDY 1 (trade / 2008-09),Italy,R_pool,3.742119
+STUDY 1 (trade / 2008-09),Italy,E_pool(AC),10.223782
+STUDY 1 (trade / 2008-09),Italy,strength,10.523460
+STUDY 1 (trade / 2008-09),Italy,volume,142.851907
+STUDY 1 (trade / 2008-09),Italy,volatility_V,0.437779
+STUDY 1 (trade / 2008-09),Italy,communicability_bc,966552990000000.000000
+STUDY 1 (trade / 2008-09),Italy,communicability_rc,8873950200000000.000000
+STUDY 1 (trade / 2008-09),Italy,temporal_closeness,0.862262
+STUDY 1 (trade / 2008-09),Russian Federation,D_primary,0.288294
+STUDY 1 (trade / 2008-09),Russian Federation,D_secondary,0.086009
+STUDY 1 (trade / 2008-09),Russian Federation,R_traj,0.039732
+STUDY 1 (trade / 2008-09),Russian Federation,E_traj,0.058375
+STUDY 1 (trade / 2008-09),Russian Federation,R_pool,1.992327
+STUDY 1 (trade / 2008-09),Russian Federation,E_pool(AC),13.670541
+STUDY 1 (trade / 2008-09),Russian Federation,strength,7.226766
+STUDY 1 (trade / 2008-09),Russian Federation,volume,93.401497
+STUDY 1 (trade / 2008-09),Russian Federation,volatility_V,0.500155
+STUDY 1 (trade / 2008-09),Russian Federation,communicability_bc,966540300000000.000000
+STUDY 1 (trade / 2008-09),Russian Federation,communicability_rc,6110107900000000.000000
+STUDY 1 (trade / 2008-09),Russian Federation,temporal_closeness,0.583966
+STUDY 1 (trade / 2008-09),Spain,D_primary,0.438342
+STUDY 1 (trade / 2008-09),Spain,D_secondary,0.034695
+STUDY 1 (trade / 2008-09),Spain,R_traj,0.051680
+STUDY 1 (trade / 2008-09),Spain,E_traj,0.040737
+STUDY 1 (trade / 2008-09),Spain,R_pool,3.313362
+STUDY 1 (trade / 2008-09),Spain,E_pool(AC),5.655045
+STUDY 1 (trade / 2008-09),Spain,strength,6.590118
+STUDY 1 (trade / 2008-09),Spain,volume,83.851774
+STUDY 1 (trade / 2008-09),Spain,volatility_V,0.525979
+STUDY 1 (trade / 2008-09),Spain,communicability_bc,966576600000000.000000
+STUDY 1 (trade / 2008-09),Spain,communicability_rc,5615480000000000.000000
+STUDY 1 (trade / 2008-09),Spain,temporal_closeness,0.828666
+STUDY 1 (trade / 2008-09),China mainland,D_primary,0.332805
+STUDY 1 (trade / 2008-09),China mainland,D_secondary,0.050338
+STUDY 1 (trade / 2008-09),China mainland,R_traj,0.042612
+STUDY 1 (trade / 2008-09),China mainland,E_traj,0.051489
+STUDY 1 (trade / 2008-09),China mainland,R_pool,3.362744
+STUDY 1 (trade / 2008-09),China mainland,E_pool(AC),7.921706
+STUDY 1 (trade / 2008-09),China mainland,strength,6.400678
+STUDY 1 (trade / 2008-09),China mainland,volume,81.010167
+STUDY 1 (trade / 2008-09),China mainland,volatility_V,0.485785
+STUDY 1 (trade / 2008-09),China mainland,communicability_bc,966463820000000.000000
+STUDY 1 (trade / 2008-09),China mainland,communicability_rc,8469520800000000.000000
+STUDY 1 (trade / 2008-09),China mainland,temporal_closeness,0.826689
+STUDY 1 (trade / 2008-09),India,D_primary,0.471586
+STUDY 1 (trade / 2008-09),India,D_secondary,0.073887
+STUDY 1 (trade / 2008-09),India,R_traj,0.040292
+STUDY 1 (trade / 2008-09),India,E_traj,0.054766
+STUDY 1 (trade / 2008-09),India,R_pool,2.728672
+STUDY 1 (trade / 2008-09),India,E_pool(AC),11.185943
+STUDY 1 (trade / 2008-09),India,strength,6.147607
+STUDY 1 (trade / 2008-09),India,volume,77.214110
+STUDY 1 (trade / 2008-09),India,volatility_V,0.409368
+STUDY 1 (trade / 2008-09),India,communicability_bc,966531110000000.000000
+STUDY 1 (trade / 2008-09),India,communicability_rc,2209974900000000.000000
+STUDY 1 (trade / 2008-09),India,temporal_closeness,0.783570
+STUDY 1 (trade / 2008-09),Canada,D_primary,0.445917
+STUDY 1 (trade / 2008-09),Canada,D_secondary,0.058322
+STUDY 1 (trade / 2008-09),Canada,R_traj,0.040534
+STUDY 1 (trade / 2008-09),Canada,E_traj,0.058259
+STUDY 1 (trade / 2008-09),Canada,R_pool,2.933064
+STUDY 1 (trade / 2008-09),Canada,E_pool(AC),9.947156
+STUDY 1 (trade / 2008-09),Canada,strength,4.544986
+STUDY 1 (trade / 2008-09),Canada,volume,53.174791
+STUDY 1 (trade / 2008-09),Canada,volatility_V,0.638876
+STUDY 1 (trade / 2008-09),Canada,communicability_bc,966466180000000.000000
+STUDY 1 (trade / 2008-09),Canada,communicability_rc,4827403000000000.000000
+STUDY 1 (trade / 2008-09),Canada,temporal_closeness,0.820760
+STUDY 1 (trade / 2008-09),Saudi Arabia,D_primary,0.499618
+STUDY 1 (trade / 2008-09),Saudi Arabia,D_secondary,0.062732
+STUDY 1 (trade / 2008-09),Saudi Arabia,R_traj,0.051267
+STUDY 1 (trade / 2008-09),Saudi Arabia,E_traj,0.045423
+STUDY 1 (trade / 2008-09),Saudi Arabia,R_pool,3.051056
+STUDY 1 (trade / 2008-09),Saudi Arabia,E_pool(AC),7.478647
+STUDY 1 (trade / 2008-09),Saudi Arabia,strength,4.536561
+STUDY 1 (trade / 2008-09),Saudi Arabia,volume,53.048411
+STUDY 1 (trade / 2008-09),Saudi Arabia,volatility_V,0.582760
+STUDY 1 (trade / 2008-09),Saudi Arabia,communicability_bc,966558320000000.000000
+STUDY 1 (trade / 2008-09),Saudi Arabia,communicability_rc,6136761100000000.000000
+STUDY 1 (trade / 2008-09),Saudi Arabia,temporal_closeness,0.583307
+STUDY 1 (trade / 2008-09),Turkey,D_primary,0.527825
+STUDY 1 (trade / 2008-09),Turkey,D_secondary,0.054076
+STUDY 1 (trade / 2008-09),Turkey,R_traj,0.062355
+STUDY 1 (trade / 2008-09),Turkey,E_traj,0.060759
+STUDY 1 (trade / 2008-09),Turkey,R_pool,3.973512
+STUDY 1 (trade / 2008-09),Turkey,E_pool(AC),10.171081
+STUDY 1 (trade / 2008-09),Turkey,strength,4.516865
+STUDY 1 (trade / 2008-09),Turkey,volume,52.752973
+STUDY 1 (trade / 2008-09),Turkey,volatility_V,0.598143
+STUDY 1 (trade / 2008-09),Turkey,communicability_bc,966572600000000.000000
+STUDY 1 (trade / 2008-09),Turkey,communicability_rc,2158014400000000.000000
+STUDY 1 (trade / 2008-09),Turkey,temporal_closeness,0.765784
+STUDY 1 (trade / 2008-09),Portugal,D_primary,0.670775
+STUDY 1 (trade / 2008-09),Portugal,D_secondary,0.226954
+STUDY 1 (trade / 2008-09),Portugal,R_traj,0.065611
+STUDY 1 (trade / 2008-09),Portugal,E_traj,0.049046
+STUDY 1 (trade / 2008-09),Portugal,R_pool,3.756836
+STUDY 1 (trade / 2008-09),Portugal,E_pool(AC),7.893660
+STUDY 1 (trade / 2008-09),Portugal,strength,4.480976
+STUDY 1 (trade / 2008-09),Portugal,volume,52.214642
+STUDY 1 (trade / 2008-09),Portugal,volatility_V,0.694200
+STUDY 1 (trade / 2008-09),Portugal,communicability_bc,966572970000000.000000
+STUDY 1 (trade / 2008-09),Portugal,communicability_rc,1455753400000000.000000
+STUDY 1 (trade / 2008-09),Portugal,temporal_closeness,0.767401
+STUDY 1 (trade / 2008-09),Indonesia,D_primary,0.681235
+STUDY 1 (trade / 2008-09),Indonesia,D_secondary,0.056493
+STUDY 1 (trade / 2008-09),Indonesia,R_traj,0.065937
+STUDY 1 (trade / 2008-09),Indonesia,E_traj,0.050232
+STUDY 1 (trade / 2008-09),Indonesia,R_pool,4.237550
+STUDY 1 (trade / 2008-09),Indonesia,E_pool(AC),9.109786
+STUDY 1 (trade / 2008-09),Indonesia,strength,3.974086
+STUDY 1 (trade / 2008-09),Indonesia,volume,44.611283
+STUDY 1 (trade / 2008-09),Indonesia,volatility_V,0.852621
+STUDY 1 (trade / 2008-09),Indonesia,communicability_bc,966512490000000.000000
+STUDY 1 (trade / 2008-09),Indonesia,communicability_rc,1892867000000000.000000
+STUDY 1 (trade / 2008-09),Indonesia,temporal_closeness,0.720329
+STUDY 1 (trade / 2008-09),Belgium,D_primary,0.528216
+STUDY 1 (trade / 2008-09),Belgium,D_secondary,0.147339
+STUDY 1 (trade / 2008-09),Belgium,R_traj,0.039211
+STUDY 1 (trade / 2008-09),Belgium,E_traj,0.039017
+STUDY 1 (trade / 2008-09),Belgium,R_pool,2.675257
+STUDY 1 (trade / 2008-09),Belgium,E_pool(AC),6.421039
+STUDY 1 (trade / 2008-09),Belgium,strength,3.341814
+STUDY 1 (trade / 2008-09),Belgium,volume,42.127209
+STUDY 1 (trade / 2008-09),Belgium,volatility_V,0.607013
+STUDY 1 (trade / 2008-09),Belgium,communicability_bc,99870585.000000
+STUDY 1 (trade / 2008-09),Belgium,communicability_rc,5384119100000000.000000
+STUDY 1 (trade / 2008-09),Belgium,temporal_closeness,0.109127
+STUDY 1 (trade / 2008-09),Switzerland,D_primary,0.529967
+STUDY 1 (trade / 2008-09),Switzerland,D_secondary,0.188390
+STUDY 1 (trade / 2008-09),Switzerland,R_traj,0.061768
+STUDY 1 (trade / 2008-09),Switzerland,E_traj,0.058963
+STUDY 1 (trade / 2008-09),Switzerland,R_pool,4.118085
+STUDY 1 (trade / 2008-09),Switzerland,E_pool(AC),9.763655
+STUDY 1 (trade / 2008-09),Switzerland,strength,3.747269
+STUDY 1 (trade / 2008-09),Switzerland,volume,41.209041
+STUDY 1 (trade / 2008-09),Switzerland,volatility_V,0.514636
+STUDY 1 (trade / 2008-09),Switzerland,communicability_bc,966563060000000.000000
+STUDY 1 (trade / 2008-09),Switzerland,communicability_rc,1973812900000000.000000
+STUDY 1 (trade / 2008-09),Switzerland,temporal_closeness,0.810879
+STUDY 1 (trade / 2008-09),Brazil,D_primary,0.465894
+STUDY 1 (trade / 2008-09),Brazil,D_secondary,0.079363
+STUDY 1 (trade / 2008-09),Brazil,R_traj,0.038202
+STUDY 1 (trade / 2008-09),Brazil,E_traj,0.037876
+STUDY 1 (trade / 2008-09),Brazil,R_pool,2.802972
+STUDY 1 (trade / 2008-09),Brazil,E_pool(AC),5.478892
+STUDY 1 (trade / 2008-09),Brazil,strength,3.644913
+STUDY 1 (trade / 2008-09),Brazil,volume,39.673695
+STUDY 1 (trade / 2008-09),Brazil,volatility_V,0.647140
+STUDY 1 (trade / 2008-09),Brazil,communicability_bc,966545510000000.000000
+STUDY 1 (trade / 2008-09),Brazil,communicability_rc,593184540000000.000000
+STUDY 1 (trade / 2008-09),Brazil,temporal_closeness,0.769377
+STUDY 1 (trade / 2008-09),Thailand,D_primary,0.470738
+STUDY 1 (trade / 2008-09),Thailand,D_secondary,0.003868
+STUDY 1 (trade / 2008-09),Thailand,R_traj,0.042712
+STUDY 1 (trade / 2008-09),Thailand,E_traj,0.042569
+STUDY 1 (trade / 2008-09),Thailand,R_pool,2.599588
+STUDY 1 (trade / 2008-09),Thailand,E_pool(AC),6.765504
+STUDY 1 (trade / 2008-09),Thailand,strength,3.476108
+STUDY 1 (trade / 2008-09),Thailand,volume,37.141620
+STUDY 1 (trade / 2008-09),Thailand,volatility_V,0.752956
+STUDY 1 (trade / 2008-09),Thailand,communicability_bc,966482890000000.000000
+STUDY 1 (trade / 2008-09),Thailand,communicability_rc,1321986800000000.000000
+STUDY 1 (trade / 2008-09),Thailand,temporal_closeness,0.802974
+STUDY 2 (polecat / COVID),actor10,D_primary,8.393042
+STUDY 2 (polecat / COVID),actor10,D_secondary,0.057225
+STUDY 2 (polecat / COVID),actor10,R_traj,0.045522
+STUDY 2 (polecat / COVID),actor10,E_traj,0.045550
+STUDY 2 (polecat / COVID),actor10,R_pool,5.508756
+STUDY 2 (polecat / COVID),actor10,E_pool(AC),16.091108
+STUDY 2 (polecat / COVID),actor10,strength,2679.000000
+STUDY 2 (polecat / COVID),actor10,volume,39226.000000
+STUDY 2 (polecat / COVID),actor10,volatility_V,2.056272
+STUDY 2 (polecat / COVID),actor10,communicability_bc,683521180000000.000000
+STUDY 2 (polecat / COVID),actor10,communicability_rc,635563420000000.000000
+STUDY 2 (polecat / COVID),actor10,temporal_closeness,0.443771
+STUDY 2 (polecat / COVID),actor59,D_primary,3.559982
+STUDY 2 (polecat / COVID),actor59,D_secondary,0.034976
+STUDY 2 (polecat / COVID),actor59,R_traj,0.051740
+STUDY 2 (polecat / COVID),actor59,E_traj,0.061387
+STUDY 2 (polecat / COVID),actor59,R_pool,6.445881
+STUDY 2 (polecat / COVID),actor59,E_pool(AC),24.864960
+STUDY 2 (polecat / COVID),actor59,strength,2312.000000
+STUDY 2 (polecat / COVID),actor59,volume,30626.000000
+STUDY 2 (polecat / COVID),actor59,volatility_V,2.270554
+STUDY 2 (polecat / COVID),actor59,communicability_bc,517704580000000.000000
+STUDY 2 (polecat / COVID),actor59,communicability_rc,604890780000000.000000
+STUDY 2 (polecat / COVID),actor59,temporal_closeness,0.378359
+STUDY 2 (polecat / COVID),actor49,D_primary,2.260012
+STUDY 2 (polecat / COVID),actor49,D_secondary,0.026033
+STUDY 2 (polecat / COVID),actor49,R_traj,0.042197
+STUDY 2 (polecat / COVID),actor49,E_traj,0.051203
+STUDY 2 (polecat / COVID),actor49,R_pool,5.321515
+STUDY 2 (polecat / COVID),actor49,E_pool(AC),19.946325
+STUDY 2 (polecat / COVID),actor49,strength,980.000000
+STUDY 2 (polecat / COVID),actor49,volume,15810.000000
+STUDY 2 (polecat / COVID),actor49,volatility_V,1.488120
+STUDY 2 (polecat / COVID),actor49,communicability_bc,215796910000000.000000
+STUDY 2 (polecat / COVID),actor49,communicability_rc,142812280000000.000000
+STUDY 2 (polecat / COVID),actor49,temporal_closeness,0.327873
+STUDY 2 (polecat / COVID),actor47,D_primary,3.265990
+STUDY 2 (polecat / COVID),actor47,D_secondary,0.057701
+STUDY 2 (polecat / COVID),actor47,R_traj,0.054275
+STUDY 2 (polecat / COVID),actor47,E_traj,0.060211
+STUDY 2 (polecat / COVID),actor47,R_pool,8.259203
+STUDY 2 (polecat / COVID),actor47,E_pool(AC),25.087120
+STUDY 2 (polecat / COVID),actor47,strength,1227.000000
+STUDY 2 (polecat / COVID),actor47,volume,14839.000000
+STUDY 2 (polecat / COVID),actor47,volatility_V,2.332067
+STUDY 2 (polecat / COVID),actor47,communicability_bc,318738380000000.000000
+STUDY 2 (polecat / COVID),actor47,communicability_rc,253316440000000.000000
+STUDY 2 (polecat / COVID),actor47,temporal_closeness,0.351482
+STUDY 2 (polecat / COVID),actor305,D_primary,3.606176
+STUDY 2 (polecat / COVID),actor305,D_secondary,0.038995
+STUDY 2 (polecat / COVID),actor305,R_traj,0.044772
+STUDY 2 (polecat / COVID),actor305,E_traj,0.048407
+STUDY 2 (polecat / COVID),actor305,R_pool,6.272868
+STUDY 2 (polecat / COVID),actor305,E_pool(AC),16.916497
+STUDY 2 (polecat / COVID),actor305,strength,1324.000000
+STUDY 2 (polecat / COVID),actor305,volume,14147.000000
+STUDY 2 (polecat / COVID),actor305,volatility_V,1.853114
+STUDY 2 (polecat / COVID),actor305,communicability_bc,563599470000000.000000
+STUDY 2 (polecat / COVID),actor305,communicability_rc,369444060000000.000000
+STUDY 2 (polecat / COVID),actor305,temporal_closeness,0.385698
+STUDY 2 (polecat / COVID),actor1622,D_primary,0.599872
+STUDY 2 (polecat / COVID),actor1622,D_secondary,0.008653
+STUDY 2 (polecat / COVID),actor1622,R_traj,0.032911
+STUDY 2 (polecat / COVID),actor1622,E_traj,0.047061
+STUDY 2 (polecat / COVID),actor1622,R_pool,3.124697
+STUDY 2 (polecat / COVID),actor1622,E_pool(AC),17.118112
+STUDY 2 (polecat / COVID),actor1622,strength,1328.000000
+STUDY 2 (polecat / COVID),actor1622,volume,13711.000000
+STUDY 2 (polecat / COVID),actor1622,volatility_V,0.668907
+STUDY 2 (polecat / COVID),actor1622,communicability_bc,520279870000.000000
+STUDY 2 (polecat / COVID),actor1622,communicability_rc,206445530000000.000000
+STUDY 2 (polecat / COVID),actor1622,temporal_closeness,0.209930
+STUDY 2 (polecat / COVID),actor129,D_primary,3.872439
+STUDY 2 (polecat / COVID),actor129,D_secondary,0.011411
+STUDY 2 (polecat / COVID),actor129,R_traj,0.053965
+STUDY 2 (polecat / COVID),actor129,E_traj,0.048198
+STUDY 2 (polecat / COVID),actor129,R_pool,8.721685
+STUDY 2 (polecat / COVID),actor129,E_pool(AC),17.256880
+STUDY 2 (polecat / COVID),actor129,strength,1426.000000
+STUDY 2 (polecat / COVID),actor129,volume,13711.000000
+STUDY 2 (polecat / COVID),actor129,volatility_V,1.920234
+STUDY 2 (polecat / COVID),actor129,communicability_bc,185067790000000.000000
+STUDY 2 (polecat / COVID),actor129,communicability_rc,137773290000000.000000
+STUDY 2 (polecat / COVID),actor129,temporal_closeness,0.348676
+STUDY 2 (polecat / COVID),actor13,D_primary,3.432080
+STUDY 2 (polecat / COVID),actor13,D_secondary,0.032978
+STUDY 2 (polecat / COVID),actor13,R_traj,0.057340
+STUDY 2 (polecat / COVID),actor13,E_traj,0.053271
+STUDY 2 (polecat / COVID),actor13,R_pool,8.887618
+STUDY 2 (polecat / COVID),actor13,E_pool(AC),19.575352
+STUDY 2 (polecat / COVID),actor13,strength,1031.000000
+STUDY 2 (polecat / COVID),actor13,volume,12821.000000
+STUDY 2 (polecat / COVID),actor13,volatility_V,1.743076
+STUDY 2 (polecat / COVID),actor13,communicability_bc,389945150000000.000000
+STUDY 2 (polecat / COVID),actor13,communicability_rc,179863960000000.000000
+STUDY 2 (polecat / COVID),actor13,temporal_closeness,0.390999
+STUDY 2 (polecat / COVID),actor455,D_primary,0.205718
+STUDY 2 (polecat / COVID),actor455,D_secondary,0.025917
+STUDY 2 (polecat / COVID),actor455,R_traj,0.071385
+STUDY 2 (polecat / COVID),actor455,E_traj,0.036452
+STUDY 2 (polecat / COVID),actor455,R_pool,12.395504
+STUDY 2 (polecat / COVID),actor455,E_pool(AC),10.660322
+STUDY 2 (polecat / COVID),actor455,strength,1012.000000
+STUDY 2 (polecat / COVID),actor455,volume,12082.000000
+STUDY 2 (polecat / COVID),actor455,volatility_V,2.045958
+STUDY 2 (polecat / COVID),actor455,communicability_bc,499415970000000.000000
+STUDY 2 (polecat / COVID),actor455,communicability_rc,295275650000000.000000
+STUDY 2 (polecat / COVID),actor455,temporal_closeness,0.382234
+STUDY 2 (polecat / COVID),actor123,D_primary,0.078252
+STUDY 2 (polecat / COVID),actor123,D_secondary,0.016761
+STUDY 2 (polecat / COVID),actor123,R_traj,0.069342
+STUDY 2 (polecat / COVID),actor123,E_traj,0.038263
+STUDY 2 (polecat / COVID),actor123,R_pool,12.132225
+STUDY 2 (polecat / COVID),actor123,E_pool(AC),11.767165
+STUDY 2 (polecat / COVID),actor123,strength,918.000000
+STUDY 2 (polecat / COVID),actor123,volume,11460.000000
+STUDY 2 (polecat / COVID),actor123,volatility_V,2.165150
+STUDY 2 (polecat / COVID),actor123,communicability_bc,147767240000000.000000
+STUDY 2 (polecat / COVID),actor123,communicability_rc,80756239000000.000000
+STUDY 2 (polecat / COVID),actor123,temporal_closeness,0.314246
+STUDY 2 (polecat / COVID),actor604,D_primary,3.698079
+STUDY 2 (polecat / COVID),actor604,D_secondary,0.115068
+STUDY 2 (polecat / COVID),actor604,R_traj,0.041200
+STUDY 2 (polecat / COVID),actor604,E_traj,0.040253
+STUDY 2 (polecat / COVID),actor604,R_pool,5.422515
+STUDY 2 (polecat / COVID),actor604,E_pool(AC),12.851329
+STUDY 2 (polecat / COVID),actor604,strength,1010.000000
+STUDY 2 (polecat / COVID),actor604,volume,11369.000000
+STUDY 2 (polecat / COVID),actor604,volatility_V,0.735948
+STUDY 2 (polecat / COVID),actor604,communicability_bc,283036270000000.000000
+STUDY 2 (polecat / COVID),actor604,communicability_rc,21128596000000.000000
+STUDY 2 (polecat / COVID),actor604,temporal_closeness,0.347763
+STUDY 2 (polecat / COVID),actor68,D_primary,3.495928
+STUDY 2 (polecat / COVID),actor68,D_secondary,0.037227
+STUDY 2 (polecat / COVID),actor68,R_traj,0.046183
+STUDY 2 (polecat / COVID),actor68,E_traj,0.048187
+STUDY 2 (polecat / COVID),actor68,R_pool,6.336336
+STUDY 2 (polecat / COVID),actor68,E_pool(AC),17.672393
+STUDY 2 (polecat / COVID),actor68,strength,946.000000
+STUDY 2 (polecat / COVID),actor68,volume,11100.000000
+STUDY 2 (polecat / COVID),actor68,volatility_V,1.333450
+STUDY 2 (polecat / COVID),actor68,communicability_bc,300559900000000.000000
+STUDY 2 (polecat / COVID),actor68,communicability_rc,244799710000000.000000
+STUDY 2 (polecat / COVID),actor68,temporal_closeness,0.332177
+STUDY 2 (polecat / COVID),actor345,D_primary,5.786725
+STUDY 2 (polecat / COVID),actor345,D_secondary,0.000625
+STUDY 2 (polecat / COVID),actor345,R_traj,0.050707
+STUDY 2 (polecat / COVID),actor345,E_traj,0.064011
+STUDY 2 (polecat / COVID),actor345,R_pool,7.530914
+STUDY 2 (polecat / COVID),actor345,E_pool(AC),27.512620
+STUDY 2 (polecat / COVID),actor345,strength,1869.000000
+STUDY 2 (polecat / COVID),actor345,volume,11060.000000
+STUDY 2 (polecat / COVID),actor345,volatility_V,1.995136
+STUDY 2 (polecat / COVID),actor345,communicability_bc,122082630000000.000000
+STUDY 2 (polecat / COVID),actor345,communicability_rc,424887470000000.000000
+STUDY 2 (polecat / COVID),actor345,temporal_closeness,0.340197
+STUDY 2 (polecat / COVID),actor2243,D_primary,1.160790
+STUDY 2 (polecat / COVID),actor2243,D_secondary,0.050736
+STUDY 2 (polecat / COVID),actor2243,R_traj,0.031078
+STUDY 2 (polecat / COVID),actor2243,E_traj,0.045929
+STUDY 2 (polecat / COVID),actor2243,R_pool,2.940945
+STUDY 2 (polecat / COVID),actor2243,E_pool(AC),16.044673
+STUDY 2 (polecat / COVID),actor2243,strength,910.000000
+STUDY 2 (polecat / COVID),actor2243,volume,10829.000000
+STUDY 2 (polecat / COVID),actor2243,volatility_V,0.797752
+STUDY 2 (polecat / COVID),actor2243,communicability_bc,23194648000000.000000
+STUDY 2 (polecat / COVID),actor2243,communicability_rc,121247980000000.000000
+STUDY 2 (polecat / COVID),actor2243,temporal_closeness,0.252944
+STUDY 2 (polecat / COVID),actor370,D_primary,3.973627
+STUDY 2 (polecat / COVID),actor370,D_secondary,0.071673
+STUDY 2 (polecat / COVID),actor370,R_traj,0.052117
+STUDY 2 (polecat / COVID),actor370,E_traj,0.054529
+STUDY 2 (polecat / COVID),actor370,R_pool,7.421212
+STUDY 2 (polecat / COVID),actor370,E_pool(AC),20.660104
+STUDY 2 (polecat / COVID),actor370,strength,1633.000000
+STUDY 2 (polecat / COVID),actor370,volume,10414.000000
+STUDY 2 (polecat / COVID),actor370,volatility_V,1.526984
+STUDY 2 (polecat / COVID),actor370,communicability_bc,52739816000000.000000
+STUDY 2 (polecat / COVID),actor370,communicability_rc,85146160000000.000000
+STUDY 2 (polecat / COVID),actor370,temporal_closeness,0.319415
+STUDY 2 (polecat / COVID),actor963,D_primary,7.463637
+STUDY 2 (polecat / COVID),actor963,D_secondary,0.042458
+STUDY 2 (polecat / COVID),actor963,R_traj,0.058881
+STUDY 2 (polecat / COVID),actor963,E_traj,0.053321
+STUDY 2 (polecat / COVID),actor963,R_pool,9.193336
+STUDY 2 (polecat / COVID),actor963,E_pool(AC),20.292299
+STUDY 2 (polecat / COVID),actor963,strength,699.000000
+STUDY 2 (polecat / COVID),actor963,volume,9973.000000
+STUDY 2 (polecat / COVID),actor963,volatility_V,2.303894
+STUDY 2 (polecat / COVID),actor963,communicability_bc,252463980000000.000000
+STUDY 2 (polecat / COVID),actor963,communicability_rc,221578580000000.000000
+STUDY 2 (polecat / COVID),actor963,temporal_closeness,0.360834
+STUDY 2 (polecat / COVID),actor193,D_primary,3.537886
+STUDY 2 (polecat / COVID),actor193,D_secondary,0.023318
+STUDY 2 (polecat / COVID),actor193,R_traj,0.061667
+STUDY 2 (polecat / COVID),actor193,E_traj,0.044889
+STUDY 2 (polecat / COVID),actor193,R_pool,9.774499
+STUDY 2 (polecat / COVID),actor193,E_pool(AC),14.793112
+STUDY 2 (polecat / COVID),actor193,strength,928.000000
+STUDY 2 (polecat / COVID),actor193,volume,9826.000000
+STUDY 2 (polecat / COVID),actor193,volatility_V,2.442884
+STUDY 2 (polecat / COVID),actor193,communicability_bc,310235780000000.000000
+STUDY 2 (polecat / COVID),actor193,communicability_rc,178233900000000.000000
+STUDY 2 (polecat / COVID),actor193,temporal_closeness,0.375301
+STUDY 2 (polecat / COVID),actor57424,D_primary,0.677745
+STUDY 2 (polecat / COVID),actor57424,D_secondary,0.015769
+STUDY 2 (polecat / COVID),actor57424,R_traj,0.035041
+STUDY 2 (polecat / COVID),actor57424,E_traj,0.043867
+STUDY 2 (polecat / COVID),actor57424,R_pool,4.346852
+STUDY 2 (polecat / COVID),actor57424,E_pool(AC),15.537491
+STUDY 2 (polecat / COVID),actor57424,strength,851.000000
+STUDY 2 (polecat / COVID),actor57424,volume,9157.000000
+STUDY 2 (polecat / COVID),actor57424,volatility_V,0.247348
+STUDY 2 (polecat / COVID),actor57424,communicability_bc,1848702.800000
+STUDY 2 (polecat / COVID),actor57424,communicability_rc,452288310000000.000000
+STUDY 2 (polecat / COVID),actor57424,temporal_closeness,0.061891
+STUDY 2 (polecat / COVID),actor734,D_primary,5.318281
+STUDY 2 (polecat / COVID),actor734,D_secondary,0.094922
+STUDY 2 (polecat / COVID),actor734,R_traj,0.043634
+STUDY 2 (polecat / COVID),actor734,E_traj,0.053796
+STUDY 2 (polecat / COVID),actor734,R_pool,6.238689
+STUDY 2 (polecat / COVID),actor734,E_pool(AC),20.422645
+STUDY 2 (polecat / COVID),actor734,strength,905.000000
+STUDY 2 (polecat / COVID),actor734,volume,9127.000000
+STUDY 2 (polecat / COVID),actor734,volatility_V,1.365449
+STUDY 2 (polecat / COVID),actor734,communicability_bc,240548810000000.000000
+STUDY 2 (polecat / COVID),actor734,communicability_rc,62688402000000.000000
+STUDY 2 (polecat / COVID),actor734,temporal_closeness,0.369041
+STUDY 2 (polecat / COVID),actor101,D_primary,6.000633
+STUDY 2 (polecat / COVID),actor101,D_secondary,0.054177
+STUDY 2 (polecat / COVID),actor101,R_traj,0.056045
+STUDY 2 (polecat / COVID),actor101,E_traj,0.061216
+STUDY 2 (polecat / COVID),actor101,R_pool,8.116544
+STUDY 2 (polecat / COVID),actor101,E_pool(AC),24.914605
+STUDY 2 (polecat / COVID),actor101,strength,1381.000000
+STUDY 2 (polecat / COVID),actor101,volume,9005.000000
+STUDY 2 (polecat / COVID),actor101,volatility_V,1.761157
+STUDY 2 (polecat / COVID),actor101,communicability_bc,15698497000000.000000
+STUDY 2 (polecat / COVID),actor101,communicability_rc,41668413000000.000000
+STUDY 2 (polecat / COVID),actor101,temporal_closeness,0.263854

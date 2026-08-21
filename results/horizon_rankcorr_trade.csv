@@ -1,0 +1,7 @@
+system,h1,h2,spearman
+trade,4,8,0.7835
+trade,4,12,0.6436
+trade,4,16,0.6541
+trade,8,12,0.9444
+trade,8,16,0.9353
+trade,12,16,0.9940
