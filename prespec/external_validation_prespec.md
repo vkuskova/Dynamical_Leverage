@@ -1,6 +1,5 @@
 # Pre-specification: external criterion validation of dynamical leverage
-## Version 3 — FROZEN. (v2 amended per second methodological review,
-## Aug 17, 2026. Deviations require a documented amendment in the repo.)
+## Version 3 — FROZEN. 
 
 ## Purpose and claim discipline
 Answer the circularity objection (raised independently in two review
